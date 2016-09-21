@@ -1,0 +1,6 @@
+C:\Users\Siarhei_Volkau\Desktop\SecondTask(String Format)\SecondTask(String Format)\SecondTask(String Format)\bin\Debug\SecondTask(String Format).exe.config
+C:\Users\Siarhei_Volkau\Desktop\SecondTask(String Format)\SecondTask(String Format)\SecondTask(String Format)\bin\Debug\SecondTask(String Format).exe
+C:\Users\Siarhei_Volkau\Desktop\SecondTask(String Format)\SecondTask(String Format)\SecondTask(String Format)\bin\Debug\SecondTask(String Format).pdb
+C:\Users\Siarhei_Volkau\Desktop\SecondTask(String Format)\SecondTask(String Format)\SecondTask(String Format)\obj\Debug\SecondTask(String Format).csprojResolveAssemblyReference.cache
+C:\Users\Siarhei_Volkau\Desktop\SecondTask(String Format)\SecondTask(String Format)\SecondTask(String Format)\obj\Debug\SecondTask(String Format).exe
+C:\Users\Siarhei_Volkau\Desktop\SecondTask(String Format)\SecondTask(String Format)\SecondTask(String Format)\obj\Debug\SecondTask(String Format).pdb

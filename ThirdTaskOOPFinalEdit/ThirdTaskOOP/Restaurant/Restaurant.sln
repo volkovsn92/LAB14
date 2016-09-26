@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantOOP", "Restaurant\RestaurantOOP.csproj", "{735D99C7-5C16-4E43-BCE8-53DE3F72EE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantOOPUnitTests", "..\RestaurantOOP.UnitTests\RestaurantOOP.UnitTests\RestaurantOOPUnitTests.csproj", "{DCD3D160-2E96-409F-8BCA-0B17E0123996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735D99C7-5C16-4E43-BCE8-53DE3F72EE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735D99C7-5C16-4E43-BCE8-53DE3F72EE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735D99C7-5C16-4E43-BCE8-53DE3F72EE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735D99C7-5C16-4E43-BCE8-53DE3F72EE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD3D160-2E96-409F-8BCA-0B17E0123996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD3D160-2E96-409F-8BCA-0B17E0123996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD3D160-2E96-409F-8BCA-0B17E0123996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD3D160-2E96-409F-8BCA-0B17E0123996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
